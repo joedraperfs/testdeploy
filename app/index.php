@@ -3,7 +3,7 @@
   <title>PHP Test</title>
  </head>
  <body>
-  <?php echo '<p>Test Page</p>'; ?> 
+  <?php echo '<p>PHP Test Page</p>'; ?> 
   <?php 
     print_r($_REQUEST);
   ?> 
